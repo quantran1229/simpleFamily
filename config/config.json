@@ -1,0 +1,18 @@
+{
+  "testing":{
+    "username": "quan",
+    "password": "0000",
+    "database": "quan",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect":"postgres"
+  },
+  "development": {
+    "username": "quan",
+    "password": "0000",
+    "database": "familydb",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
